@@ -151,7 +151,7 @@ int main(){
         objs[i]->getNumberOfWheels();
     }
     // for(int i = 0;i < 3; i++){
-    //     objs[i]->hasEngine(); //this will give compile tme error as Bicycle doesn't have the has Engine function.
+    //     objs[i]->hasEngine(); //this will give compile time error as Bicycle doesn't have the has Engine function.
     // }
 
     vector<EngineVehicle*> objs1;

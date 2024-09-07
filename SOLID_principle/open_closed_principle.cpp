@@ -40,7 +40,7 @@ class InvoiceDao {  //data access object
 
 
 /*
-    Instaed we have to create the invoicedao class as interface and extend that interface to save to db or to file and many more.
+    Instead we have to create the invoicedao class as interface and extend that interface to save to db or to file and many more.
 */
 
  class InvoiceDao{
